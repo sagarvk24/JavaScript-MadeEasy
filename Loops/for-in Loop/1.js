@@ -6,13 +6,13 @@ let obj = {
     "Age" : 21
 };
 
-for(let key in obj)
+for(const key in obj)
 {
     console.log("Key : ", key);
 }
 
 console.log();
-for (let key in obj)
+for (const key in obj)
 {
     console.log("Values : ",obj[key]);
 }
