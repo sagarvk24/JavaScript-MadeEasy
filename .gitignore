@@ -1,2 +1,9 @@
 Functions/tempCodeRunnerFile.js
 Arrays/tempCodeRunnerFile.js
+package-lock.json
+package.json
+.eslintrc.js
+node_modules
+.package-lock.json
+node_modules/.package-lock.json
+.gitignore
