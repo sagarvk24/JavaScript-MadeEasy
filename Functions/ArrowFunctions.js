@@ -8,6 +8,7 @@ const func = ()=>{
 func()
 console.log();
 
+//another method, passing a parameter
 const func1 = (num1)=>{
     console.log("The square of ", num1, " is ", num1**2);
 }
